@@ -1,7 +1,10 @@
 # TUGAS-PRAKTIKUM-SISTEM-OPERASI-6-SK3B
+**TUGAS PRAKTIKUM 6 SISTEM OPERASI**
 
 **NAMA : MIKI PURNAWAN**
+
 **KELAS : SK3B**
+
 **NIM : 09011282328122**
 
 Pertama-tama ubah settingan network pada virtual box nya dari NAT ke Bridge Adapter dengan cara buka menu settings - Networrk dan ganti Attached to dari NAT ke Bridge Adapter kemudian sesuaikan dengan wifi adapter kalian dikarenakan saya menggunakan tp-link jadi saya pilih tp-link setelah itu sambungkan perangkat ke jaringan wifi.
